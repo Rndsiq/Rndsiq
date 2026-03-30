@@ -1,7 +1,6 @@
 #  Olá, eu sou Ronaldo Siqueira
 
  **Suporte Técnico | Foco em Cybersecurity (SOC)**
- Brasil
  Estudando: Security+ | AWS | Análise de Logs
 
 ---
